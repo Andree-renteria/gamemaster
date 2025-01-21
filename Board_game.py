@@ -2,6 +2,8 @@ import cv2
 import os
 import numpy as np
 
+#Comment
+
 def compare_images(image1, image2):
 
     # Convert images to HSV
